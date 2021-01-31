@@ -45,7 +45,12 @@ United States:
     url: https://keycult.com
     description: ''
 
-China:
+Canada:
+  - name: zealpc
+    url: https://zealpc.net
+    description: ''
+
+Asia:
   - name: kbdfans
-    url: https://mechboards.co.uk
+    url: https://kbdfans.com
     description: ''
