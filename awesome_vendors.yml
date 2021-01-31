@@ -1,0 +1,51 @@
+---
+
+United Kingdom:
+  - name: mechboards
+    url: https://mechboards.co.uk
+    description: ''
+  - name: prototypist
+    url: https://prototypist.net
+    description: ''
+  - name: keebcats
+    url: https://keebcats.co.uk
+    description: ''
+  - name: caps-unlocked
+    url: https://caps-unlocked.com
+    description: ''
+  - name: ukkeycaps
+    url: http://www.ukkeycaps.co.uk
+    description: ''
+  - name: kibou
+    url: https://kibou.store
+    description: ''
+
+Europe:
+  - name: keygem
+    url: https://keygem.store
+    description: ''
+  - name: mykeyboard
+    url: https://mykeyboard.eu
+    description: ''
+  - name: candykeys
+    url: https://candykeys.com
+    description: ''
+
+United States:
+  - name: novelkeys
+    url: https://novelkeys.xyz
+    description: ''
+  - name: omnitype
+    url: https://omnitype.com
+    description: ''
+  - name: primekb
+    url: https://www.primekb.com
+    description: ''
+  - name: keycult
+    url: https://keycult.com
+    description: ''
+
+China:
+  - name: kbdfans
+    url: https://mechboards.co.uk
+    description: ''

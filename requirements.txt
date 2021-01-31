@@ -1,0 +1,4 @@
+Jinja2==2.11.3
+PyYAML==5.4.1
+ReParser==1.4.3
+requests==2.25.1
