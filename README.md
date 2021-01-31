@@ -4,14 +4,19 @@ A curated list of *awesome* independent mechanical keyboard vendors organised al
 
 ## Contents
 
-* [China](#China)
+* [Asia](#Asia)
+* [Canada](#Canada)
 * [Europe](#Europe)
 * [United Kingdom](#United-Kingdom)
 * [United States](#United-States)
 
-## China
+## Asia
 
-* [kbdfans](https://mechboards.co.uk)
+* [kbdfans](https://kbdfans.com)
+
+## Canada
+
+* [zealpc](https://zealpc.net)
 
 ## Europe
 
