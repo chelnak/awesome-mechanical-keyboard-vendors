@@ -5,14 +5,20 @@ A curated list of *awesome* independent mechanical keyboard vendors organised al
 ## Contents
 
 * [Asia](#Asia)
+* [Australia](#Australia)
 * [Canada](#Canada)
 * [Europe](#Europe)
+* [USA](#USA)
 * [United Kingdom](#United-Kingdom)
-* [United States](#United-States)
 
 ## Asia
 
 * [kbdfans](https://kbdfans.com)
+* [zfrontier](https://en.zfrontier.com)
+
+## Australia
+
+* [ramaworks](https://rama.works)
 
 ## Canada
 
@@ -22,7 +28,15 @@ A curated list of *awesome* independent mechanical keyboard vendors organised al
 
 * [candykeys](https://candykeys.com)
 * [keygem](https://keygem.store)
+* [mechbox](https://mechbox.co.uk)
 * [mykeyboard](https://mykeyboard.eu)
+
+## USA
+
+* [keycult](https://keycult.com)
+* [novelkeys](https://novelkeys.xyz)
+* [omnitype](https://omnitype.com)
+* [primekb](https://www.primekb.com)
 
 ## United Kingdom
 
@@ -32,13 +46,6 @@ A curated list of *awesome* independent mechanical keyboard vendors organised al
 * [mechboards](https://mechboards.co.uk)
 * [prototypist](https://prototypist.net)
 * [ukkeycaps](http://www.ukkeycaps.co.uk)
-
-## United States
-
-* [keycult](https://keycult.com)
-* [novelkeys](https://novelkeys.xyz)
-* [omnitype](https://omnitype.com)
-* [primekb](https://www.primekb.com)
 
 ## Contributing
 
