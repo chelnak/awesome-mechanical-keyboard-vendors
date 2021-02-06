@@ -28,7 +28,7 @@ jobs:
 
     - name: Build Readme
       run: |
-        python build.py
+        python tools/build.py
 
     - name: Commit Updates
       if: github.ref == 'refs/heads/main'

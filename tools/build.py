@@ -1,6 +1,8 @@
 import yaml
 import re
 import requests
+from os import path
+from pathlib import Path
 from jinja2 import Template
 
 
@@ -23,21 +25,31 @@ def valid_url_response(url):
     return (response.status_code == 200)
 
 
+def valid_description(item):
+    return 'description' in item
+
+
 def apply_rules(item):
-    print(f'-> Testing {item["name"]}')
     r = []
     if not valid_url_format(item['url']):
         r.append(f'Invalid url format: {item["url"]}')
+
     if not valid_url_response(item['url']):
         r.append(f'Invalid url response: {item["url"]}')
+
+    if not valid_description(item):
+        r.append(f'Must contain at least an empty description key')
 
     if len(r) > 0:
         return r
 
 
-AWESOME_VENDORS_SOURCE = 'awesome_vendors.yml'
-README_TEMPLATE = 'README.template.md'
-README = 'README.md'
+CURRENT_DIRECTORY = Path(__file__).parent
+AWESOME_VENDORS_SOURCE = path.join(
+    CURRENT_DIRECTORY.parent, 'awesome_vendors.yml')
+README_TEMPLATE = path.join(
+    CURRENT_DIRECTORY.parent, 'templates', 'README.template.md')
+README = path.join(CURRENT_DIRECTORY.parent, 'README.md')
 
 sorted_dict = {}
 error_list = []
@@ -45,9 +57,14 @@ error_list = []
 with open(AWESOME_VENDORS_SOURCE, 'r') as file:
     yml_dict = yaml.safe_load(file)
 
+print('Validating vendors:')
 for loc in sorted(yml_dict.keys()):
-    [error_list.append({'section': loc, 'issue': r})
-     for vendor in yml_dict[loc] if (r := apply_rules(vendor))]
+    print(f'-> {loc}')
+    for vendor in yml_dict[loc]:
+        print(f'  -> {vendor["name"]}')
+        (r := apply_rules(vendor)) and error_list.append(
+            {'section': f'{loc}\{vendor["name"]}', 'issue': r})
+
     sorted_dict[loc] = sorted(yml_dict[loc], key=lambda k: k['name'])
 
 if len(error_list) > 0:
