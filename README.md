@@ -8,6 +8,7 @@ A curated list of *awesome* independent mechanical keyboard vendors organised al
 * [Australia](#Australia)
 * [Canada](#Canada)
 * [Europe](#Europe)
+* [Global](#Global)
 * [USA](#USA)
 * [United Kingdom](#United-Kingdom)
 
@@ -31,6 +32,10 @@ A curated list of *awesome* independent mechanical keyboard vendors organised al
 * [mechbox](https://mechbox.co.uk)
 * [mykeyboard](https://mykeyboard.eu)
 
+## Global
+
+* [keeb](https://keeb.gg)
+
 ## USA
 
 * [keycult](https://keycult.com)
@@ -40,7 +45,6 @@ A curated list of *awesome* independent mechanical keyboard vendors organised al
 
 ## United Kingdom
 
-* [caps-unlocked](https://caps-unlocked.com)
 * [keebcats](https://keebcats.co.uk)
 * [kibou](https://kibou.store)
 * [mechboards](https://mechboards.co.uk)
