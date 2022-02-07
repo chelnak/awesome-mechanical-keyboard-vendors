@@ -10,9 +10,6 @@ United Kingdom:
   - name: keebcats
     url: https://keebcats.co.uk
     description: ''
-  - name: caps-unlocked
-    url: https://caps-unlocked.com
-    description: ''
   - name: ukkeycaps
     url: http://www.ukkeycaps.co.uk
     description: ''
@@ -65,3 +62,8 @@ Australia:
   - name: ramaworks
     url: https://rama.works
     description: ''
+
+Global:
+  - name: keeb
+    url: https://keeb.gg
+    description: 'keeb is a semi-cuirated catalog of in stock keyboard and mouse accessories keyboard parts.'
