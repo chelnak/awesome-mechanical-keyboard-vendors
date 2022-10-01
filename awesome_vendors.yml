@@ -18,6 +18,9 @@ United Kingdom:
     description: ''
 
 Europe:
+  - name: clickeys
+    url: https://clickeys.nl/
+    description: 'Keyboards, Switches, Keycaps, Krytox & More'
   - name: keygem
     url: https://keygem.store
     description: ''
