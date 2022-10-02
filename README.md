@@ -28,6 +28,7 @@ A curated list of *awesome* independent mechanical keyboard vendors organised al
 ## Europe
 
 * [candykeys](https://candykeys.com)
+* [clickeys](https://clickeys.nl/)
 * [keygem](https://keygem.store)
 * [mechbox](https://mechbox.co.uk)
 * [mykeyboard](https://mykeyboard.eu)
