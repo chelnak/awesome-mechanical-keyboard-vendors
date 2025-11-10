@@ -33,6 +33,9 @@ Europe:
   - name: mechbox
     url: https://mechbox.co.uk
     description: ''
+  - name: splitted.space
+    url: https://splitted.space/en
+    description: 'Keyboards, Switches, Keycaps. From Ukraine but worldwide shipping'
 
 USA:
   - name: novelkeys
