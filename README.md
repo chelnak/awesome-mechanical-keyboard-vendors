@@ -32,6 +32,7 @@ A curated list of *awesome* independent mechanical keyboard vendors organised al
 * [keygem](https://keygem.store)
 * [mechbox](https://mechbox.co.uk)
 * [mykeyboard](https://mykeyboard.eu)
+* [splitted.space](https://splitted.space/en)
 
 ## Global
 
