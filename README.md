@@ -17,6 +17,9 @@ A curated list of *awesome* independent mechanical keyboard vendors organised al
 * [kbdfans](https://kbdfans.com)
 * [zfrontier](https://en.zfrontier.com)
 
+
+* [AllwinKey](https://allwinkey.com) — Custom keyboard & keycap OEM/ODM manufacturer. PBT doubleshot, dye-sub, low MOQ for boutique brands.
+* [Allwin Factory](https://allwinfactory.com) — Keyboard & keycap factory, 600+ products, ceramic keycaps, wholesale components.
 ## Australia
 
 * [ramaworks](https://rama.works)
