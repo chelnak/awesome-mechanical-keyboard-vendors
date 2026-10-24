@@ -60,6 +60,9 @@ Asia:
   - name: kbdfans
     url: https://kbdfans.com
     description: ''
+  - name: keycapshub
+    url: https://keycapshub.com/
+    description: 'PBT and Cherry-profile custom keycaps with ongoing storefront checkout.'
   - name: zfrontier
     url: https://en.zfrontier.com
     description: ''
